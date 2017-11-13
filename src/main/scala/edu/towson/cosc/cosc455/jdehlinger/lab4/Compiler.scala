@@ -3,7 +3,6 @@ package edu.towson.cosc.cosc455.jdehlinger.lab4
 /**
   * COSC 455 Programming Languages: Implementation and Design
   * Lab 4 - A Simple Compiler
-  * Josh Dehlinger
   * A simple compiler used for the simple English grammar in Section 2.2 of Adam Brooks Weber's
   * "Modern Programming Languages" book. Parts of this code was adapted from Robert Sebesta's "Concepts
   * of Programming Languages".
